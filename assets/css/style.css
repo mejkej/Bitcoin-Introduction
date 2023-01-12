@@ -5,19 +5,15 @@ body {
     text-align:center;
     background-color:darkslategray;
     color:white;   
-    
-}
-
-
-nav ul {
+    }
+    nav ul {
     list-style:none;
     padding:0;
     margin:0;
     width:100%;
     position:relative;
-
-}
-nav li{
+    }
+    nav li{
     margin-top:10px;
     font-size:24px;
     display:inline-block;
@@ -26,20 +22,16 @@ nav li{
     border-radius:25px;
     border: 1px solid white;
     background-color:black;    
-}
-
-
-nav a {
+    }
+    nav a {
     text-decoration:none;
     color:gold;
-    
-}
-p{
+    }
+    p{
     margin-left:5%;
     margin-right:5%;
-}
-
-.coffediv{
+    }
+    .coffediv{
     max-height:315px;
     max-width:560px;
     min-width:300px;
@@ -49,9 +41,8 @@ p{
     margin-right:5%;
     overflow:hidden;
     display:contents;
-}
-
-.coffe{
+    }
+    .coffe{
     max-height:315px;
     max-width:560px;
     min-width:300px;
@@ -59,13 +50,12 @@ p{
     width:100%;
     height:100%;
     padding-inline:2%;
-}
-
-h2{
+    }
+    h2{
     margin-left:5%;
     margin-right:5%;
-}
-.chartdiv{
+    }
+    .chartdiv{
     max-height:315px;
     max-width:560px;
     min-width:300px;
@@ -75,9 +65,8 @@ h2{
     margin-right:5%;
     overflow:hidden;
     display:contents;
-}
-
-.chart{
+    }
+    .chart{
     max-height:315px;
     max-width:560px;
     min-width:300px;
@@ -85,9 +74,8 @@ h2{
     width:100%;
     height:100%;
     padding-inline:2%;
-}
-
-.ledgerdiv{
+    }
+    .ledgerdiv{
     max-height:315px;
     max-width:560px;
     min-width:300px;
@@ -97,9 +85,8 @@ h2{
     margin-right:5%;
     overflow:hidden;
     display:contents;
-}
-
-.ledgerpic{
+    }
+    .ledgerpic{
     max-height:315px;
     max-width:560px;
     min-width:300px;
@@ -107,8 +94,8 @@ h2{
     width:100%;
     height:100%;
     padding-inline:2%;
-}
-  .dltdiv{
+    }
+    .dltdiv{
     max-height:315px;
     max-width:560px;
     min-width:300px;
@@ -118,8 +105,8 @@ h2{
     margin-right:5%;
     overflow:hidden;
     display:contents;
-  }
-.dlt {
+    }
+    .dlt {
     max-height:315px;
     max-width:560px;
     min-width:300px;
@@ -127,21 +114,19 @@ h2{
     width:100%;
     height:100%;
     padding-inline:2%;
-}
-
-.btcdiv{
-max-height:315px;
-max-width:560px;
-min-width:300px;
-min-height:180px;
-padding-top:70%;
-margin-left: 5%;
-margin-right:5%;
-overflow:hidden;
-display:contents;
-}
-
-.btcpartisipants {
+    }
+    .btcdiv{
+    max-height:315px;
+    max-width:560px;
+    min-width:300px;
+    min-height:180px;
+    padding-top:70%;
+    margin-left: 5%;
+    margin-right:5%;
+    overflow:hidden;
+    display:contents;
+    }
+    .btcpartisipants {
     max-height:315px;
     max-width:560px;
     min-width:300px;
@@ -149,62 +134,49 @@ display:contents;
     width:100%;
     height:100%;
     padding-inline:2%;
-}
-
-.container{
-max-height:315px;
-max-width:560px;
-min-width:300px;
-min-height:180px;
-padding-top:56.25%;
-margin-left: 5%;
-margin-right:5%;
-overflow:hidden;
-display:contents;
-
-}
-
-
-
-
-.container iframe{
+    }
+    .container{
+    max-height:315px;
+    max-width:560px;
+    min-width:300px;
+    min-height:180px;
+    padding-top:56.25%;
+    margin-left: 5%;
+    margin-right:5%;
+    overflow:hidden;
+    display:contents;
+    }
+    .container iframe{
     max-height:315px;
     max-width:560px;
     min-width:300px;
     min-height:240px;
     width:100%;
     height:100%;
-  
-}
-
-
-.disclaimer{
+    }
+    .disclaimer{
     color:red;
     font-size:120%;
     padding:0;
     margin:0;
     border:0;
-}
-a:link {
+    }
+    a:link {
     color:white;
-}
-
-a :visited{
+    }
+    a :visited{
     color:white;
-}
-
-a:hover {  
+    }
+    a:hover {  
     background-color:white;
     color:black;
     border-radius:25px;
-}
-
-p a{
+    }
+    p a{
     color:black;
     font-size:120%;
-}
-
-footer{
+    }
+    footer{
     position:relative;
     bottom:0;
     background-color:black;
@@ -213,40 +185,38 @@ footer{
     border:0;
     height:100%;
     width:100%;
-}
-
-footer a {
+    }
+    footer a {
     color:gold;
     background-color:black;
     border-radius:25px;
     padding-inline: 10px;
-}
-#big{
+    }
+    #big{
     color:black;
     background-color:gold;
     border-radius:25px;
-}
-@media(max-width: 700px){
-
-.body{    
-padding-left: 1%;
-padding-right:1%;
- }
- h1{
-   font-size: 16px;
- }
- h2{
+    }
+    @media(max-width: 700px){
+    .body{    
+    padding-left: 1%;
+    padding-right:1%;
+    }
+    h1{
+    font-size: 16px;
+    }
+    h2{
     font-size:14px;
- }
- h3 {
+    }
+    h3 {
     font-size:12px;
- }
-   footer{
+    }
+    footer{
     font-size:70%;
     padding:0;
     margin:0;
     border:0;
-   } 
-   nav li {
+    } 
+    nav li {
     font-size:16px;
     }
