@@ -18,25 +18,25 @@ It is a responsive website customized for all devices. The website looks good wh
 Navbar -> Text Heading -> Text Paragraph -> Media Content -> Text Heading -> Paragraph -> Media Content -> Footer.
 
 
-# Navbar
+## Navbar
 located on top of the website. Three anchor tags in an unordered list, Looks like three big buttons, i styled them to be oval and gave them a suiting color. One color as standard another while hovered and a third when selected.
 Also changed the size of the font for smaller screen device.
 
 
-# Video & Images
+## Video & Images
 All off the media on the website is wrapped in a div, in order to make it responsive. There is a set max and minimum width and height and the content is displayed in the center of the browser.
 
 
-# Affiliate Links 
+## Affiliate Links 
 There is a few affiliate links in the body on one of the pages. colored to be visible but smooth, When hovered the color changes, if they have been visited the color will also change. The links all opens in a new tab. 
 
 
-# Footer
+## Footer
 I changed the footers background color in order for it to be very clear. For a better user experience the font size is smaller for visitors with small screen devices.
 The footer contains a paragraph with a personal message from me, and my name as the author of the website.
 Underneath i declare the sources i used for both information and media. Each source is made up of an anchor tag that opens in a separate tab there is also a hovering effect on these. and lastly there is a paragraph acting as a disclaimer. I made it red so that its as visible as possible. The disclaimer encourages people to properly do their own research before investing and also warns the user about all the scams in the crypto space.
 
-# Formating, Validating, Testing & Final Photos
+## Formating, Validating, Testing & Final Photos
 The code has been tested by myself using dev tools and also through my mobile.
 The code is validated and formated both the css and the html has been approved.
 
@@ -54,17 +54,19 @@ The code is validated and formated both the css and the html has been approved.
 
 
 
-# My personal thaught on the project
+## My personal thaught on the project
 Building this website has been both a dream and a nightmare. See i was not aware the projects had a due date.
 That is obviously entierly my own fault.
 
 I have been doing my absoulute best to try and catch up. The last ~3 weeks i have been working on this project day and night. There has not been much sleep my life has only revolved around web developement. Besides the stress and lack off sleep it has been amazing. I am so happy i started the course and only wish i did it sooner.
+
 I learned so many things along the way! For example that coding challenges and accually creating a project is two very
 different things! Github, Gitpod, visual studio code. Saving repositories, writing commands in the terminal. The list goes on, best of all is i realize that coding is fun, addictive and rewarding.
-It will be a pleasure to continue on this path. The course has my full attention and i am doing my best to catch up. I have made so many misstakes its incredible, I dont know if its in the CI material on how to save the repo in github but that has been an issue that is finally resolved. I have redone major parts off the project 3 times. The positive outcome of that is that i have gotten a much deeper understanding off css. Making the youtube video responsive took me ages but it taught me alot more than how to make a video responsive! 
+
+It will be a pleasure to continue on this path. The course has my full attention and i am doing my best to catch up. I have made so many misstakes its incredible. I dont know if its in the CI material about how to save the repo in github but that has been an issue that is finally resolved. I have redone major parts off the project 3 times. The positive outcome of that is that i have gotten a much deeper understanding off css. Making the youtube video responsive took me ages but it taught me alot more than how to make a video responsive! 
 
 
-# Resources:
+## Resources:
 the resources i have used to learn how to code and work with github along the project:
 
 My mentor Seun
@@ -83,7 +85,7 @@ https://validator.w3.org/#validate_by_input
 
 Googles developer tools has also been a great resource.
 
-#Sources off information and images:
+## Sources off information and images:
 
 https://blockgeeks.com/
 
