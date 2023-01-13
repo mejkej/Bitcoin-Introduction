@@ -1,4 +1,5 @@
-README.md file off my first ever webdevelopment project.
+#Bitcoin-Introduction
+My first ever web developement project.
 
 So what is the use for this website? 
 I give the user information and trying to spread the word of bitcoin.
