@@ -1,4 +1,32 @@
-#Bitcoin-Introduction
+#Bitcoin-Introduction.
+By: Marcus Kruse.
+
+##Description off the project:
+My first ever web development project!
+
+
+
+
+-A brief description of the project
+-The technologies used (e.g. HTML, CSS, JavaScript)
+-Instructions on how to run the project
+-Credits (if using any open source code or libraries)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 My first ever web developement project.
 
 So what is the use for this website? 
