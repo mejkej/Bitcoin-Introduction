@@ -40,8 +40,6 @@ body {
     .coffediv{
     max-height:315px;
     max-width:560px;
-    min-width:300px;
-    min-height:180px;
     padding-top:70%;
     margin:0;
     overflow:hidden;
