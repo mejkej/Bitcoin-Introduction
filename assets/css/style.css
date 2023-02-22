@@ -43,19 +43,15 @@ body {
     min-width:300px;
     min-height:180px;
     padding-top:70%;
-    margin-left: 5%;
-    margin-right:5%;
+    margin:0;
     overflow:hidden;
     display:contents;
     }
     .coffe{
     max-height:315px;
     max-width:560px;
-    min-width:300px;
-    min-height:240px;
     width:100%;
     height:100%;
-    padding-inline:2%;
     }
     h2{
     margin-left:5%;
@@ -75,11 +71,8 @@ body {
     .chart{
     max-height:315px;
     max-width:560px;
-    min-width:300px;
-    min-height:240px;
     width:100%;
     height:100%;
-    padding-inline:2%;
     }
     .ledgerdiv{
     max-height:315px;
@@ -95,11 +88,8 @@ body {
     .ledgerpic{
     max-height:315px;
     max-width:560px;
-    min-width:300px;
-    min-height:240px;
     width:100%;
     height:100%;
-    padding-inline:2%;
     }
     .dltdiv{
     max-height:315px;
@@ -107,19 +97,14 @@ body {
     min-width:300px;
     min-height:180px;
     padding-top:70%;
-    margin-left: 5%;
-    margin-right:5%;
     overflow:hidden;
     display:contents;
     }
     .dlt {
     max-height:315px;
     max-width:560px;
-    min-width:300px;
-    min-height:240px;
     width:100%;
     height:100%;
-    padding-inline:2%;
     }
     .btcdiv{
     max-height:315px;
@@ -127,38 +112,31 @@ body {
     min-width:300px;
     min-height:180px;
     padding-top:70%;
-    margin-left: 5%;
-    margin-right:5%;
     overflow:hidden;
     display:contents;
     }
     .btcpartisipants {
     max-height:315px;
     max-width:560px;
-    min-width:300px;
-    min-height:240px;
     width:100%;
     height:100%;
-    padding-inline:2%;
     }
     .container{
-    max-height:315px;
-    max-width:560px;
-    min-width:300px;
-    min-height:180px;
-    padding-top:56.25%;
-    margin-left: 5%;
-    margin-right:5%;
-    overflow:hidden;
-    display:contents;
+    position: relative;
+    max-width: 560px;
+    margin: 0 auto;
     }
+    .container:before {
+    content: "";
+    display: block;
+    padding-top: 56.25%;
+      }
     .container iframe{
-    max-height:315px;
-    max-width:560px;
-    min-width:300px;
-    min-height:240px;
-    width:100%;
-    height:100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     }
     .disclaimer{
     color:red;
