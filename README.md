@@ -52,7 +52,10 @@ The code is validated and formated both the css and the html has been approved.
 ![Middle2 page 3](assets/img/3.3.png)
 ![Bottom page 3](assets/img/3.4.png)
 
-
+![Html validated](assets/img/htmlvalidated.png)
+![Html validated](assets/img/htmlvalidatedtwo.png)
+![Html validated](assets/img/htmlvalidatedthree.png)
+![Css validated](assets/img/cssvalidated.png)
 
 
 ## My personal thaught on the project
@@ -99,10 +102,7 @@ Code validated by:
 https://validator.w3.org/#validate_by_input
 
 Googles developer tools has also been a great resource.
-(assets/img/htmlvalidated.png)
-(assets/img/htmlvalidatedtwo.png)
-(assets/img/htmlvalidatedthree.png)
-(assets/img/cssvalidated.png)
+
 ## Sources off information and images:
 
 https://blockgeeks.com/
