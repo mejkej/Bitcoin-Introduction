@@ -1,4 +1,5 @@
 ![Top of home page](assets/img/1.1.png)
+[Link to the live project](https://mejkej.github.io/Bitcoin-Introduction/index.html)
 # Bitcoin-Introduction.
 
 ## Introduction:
