@@ -99,7 +99,10 @@ Code validated by:
 https://validator.w3.org/#validate_by_input
 
 Googles developer tools has also been a great resource.
-
+(assets/img/htmlvalidated.png)
+(assets/img/htmlvalidatedtwo.png)
+(assets/img/htmlvalidatedthree.png)
+(assets/img/cssvalidated.png)
 ## Sources off information and images:
 
 https://blockgeeks.com/
