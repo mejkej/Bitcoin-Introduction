@@ -66,6 +66,20 @@ different things! Github, Gitpod, visual studio code. Saving repositories, writi
 
 It will be a pleasure to continue on this path. The course has my full attention and i am doing my best to catch up. I have made so many misstakes its incredible. I dont know if its in the CI material about how to save the repo in github but that has been an issue that is finally resolved. I have redone major parts off the project 3 times. The positive outcome of that is that i have gotten a much deeper understanding off css. Making the youtube video responsive took me ages but it taught me alot more than how to make a video responsive! 
 
+## Re-submission
+So there was a few issues with the project that i first submitted. 
+1. There was a slight horizontal scroll issue on very small screen phones. 
+Solution: overflow-x:hidden;
+
+2. There was a image with CAPITAL LETTERS. Solution: Renamed the img.
+
+3.Lack of commits. Due to me not knowing how to get a project hosted properly.
+Solution: Made sure that i hosted the original project. Also i added a image, and tried to commit 
+every single small change that i made.
+
+With the knowledge i have now compared to the knowledge i had when i created this project i have
+definetly learned alot. I am very happy to be done with this project so i can focus on the next one.
+
 
 ## Resources:
 the resources i have used to learn how to code and work with github along the project:
